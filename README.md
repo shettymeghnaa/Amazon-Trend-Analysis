@@ -1,1 +1,2 @@
 # Amazon-Trend-Analysis
+Developed a predictive model for customer upvotes using Linear Regression and Decision Tree Regressor algorithms. Analyzed a dataset of customer reviews to assess ”Helpfulness” by exploring, visualizing, and preparing the data, followed by model training and performance evaluation. Leveraged statistical techniques to enhance predictive accuracy and derive actionable insights
